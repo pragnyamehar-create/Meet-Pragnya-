@@ -4,11 +4,7 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 
 ## 🚀 Live Website
 
-> Add your deployed portfolio link here after deployment.
-
-Example:
-
-`https://pragnyamehar-create.github.io/portfolio/`
+> https://meet-pragnya.vercel.app/
 
 ## 👩‍💻 About Me
 
